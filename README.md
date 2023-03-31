@@ -17,7 +17,7 @@ In this notebook, we'll be using Python to analyze a college completion dataset.
 We'll be answering the following three main questions based on the college completion data:
 
 1. What effect do an institution's characteristics have on their graduation rate?
-2. Does full-time faculty have an effect on student retention rate?
+2. Does full-time faculty have an effect on student retention?
 3. Which type of institution awards the most degrees?
 
 # Data Source
