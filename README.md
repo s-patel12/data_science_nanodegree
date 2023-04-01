@@ -41,7 +41,7 @@ The code should run with no issues using Python versions 3.*.
 
 
 # Results
-The main findings of the code can be found at the post available [here](https://medium.com/@sarinapatel1213/how-can-we-boost-us-college-completion-rates-6f29efd3dd15).
+The main findings of the code can be found at the post available [here](https://medium.com/@sarinapatel1213/how-can-we-boost-us-college-completion-rates-6f29efd3dd15). 
 
 # Contributing
 If you find any issues or have any suggestions for improvement, please feel free to open an issue or a pull request.
