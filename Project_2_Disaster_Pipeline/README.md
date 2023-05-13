@@ -1,15 +1,14 @@
 # Disaster Response Pipeline Project
-## Table of Contents
+## Table of Contents:
 1. [Project Description](#project-description)
 2. [Getting Started](#getting-started)
 3. [Project Structure](#project-structure)
 4. [Acknowledgements](#acknowledgements)
 
-
-# Project Description
+## Project Description:
 This project is part of the Data Science Nanodegree Program by Udacity. The purpose of the project is to build a Natural Language Processing (NLP) model that categorizes messages sent during disasters into different categories in order to streamline disaster response efforts. The project includes a Flask web app that enables an emergency worker to input a new message and get classification results in several categories.
 
-## Getting Started
+## Getting Started:
 ### Prerequisites
 * Python 3.6+
 * Libraries: pandas, numpy, sqlalchemy, flask, nltk, scikit-learn, joblib, plotly
@@ -36,9 +35,11 @@ This project is part of the Data Science Nanodegree Program by Udacity. The purp
     python run.py
     ```
 5. Go to [http://127.0.0.1:300](http://127.0.0.1:3000/) to view the web app.
-![Disaster Response App](https://github.com/s-patel12/data_science_nanodegree/blob/main/Project_2_Disaster_Pipeline/web_app_screenshot.png)
 
-## Project Structure
+![Disaster Response App](https://github.com/s-patel12/data_science_nanodegree/blob/main/Project_2_Disaster_Pipeline/web_app_screenshot.png)
+NOTE: If classifier.pkl and DisasterResponse.db already exist, only complete step 3 onwards.
+
+## Project Structure:
 ```bash
 data/
 |- disaster_categories.csv  # categories data
@@ -59,5 +60,5 @@ app/
 README.md                    # project description
 ```
 
-## Acknowledgements
+## Acknowledgements:
 * [Figure Eight](https://www.figure-eight.com/) for providing the messages and categories dataset.
