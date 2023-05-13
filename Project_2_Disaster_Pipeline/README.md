@@ -37,6 +37,7 @@ This project is part of the Data Science Nanodegree Program by Udacity. The purp
 5. Go to [http://127.0.0.1:300](http://127.0.0.1:3000/) to view the web app.
 
 ![Disaster Response App](https://github.com/s-patel12/data_science_nanodegree/blob/main/Project_2_Disaster_Pipeline/web_app_screenshot.png)
+
 NOTE: If classifier.pkl and DisasterResponse.db already exist, only complete step 3 onwards.
 
 ## Project Structure:
