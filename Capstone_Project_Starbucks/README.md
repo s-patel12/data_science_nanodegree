@@ -52,9 +52,9 @@ Throughout this notebook we performed exploratory data analysis and modelling to
 
 3. Discount offers were the most likely type of offer to be completed after being viewed, with 1,150 more discount offers being completed after being viewed than bogo offers.
 
-4. The attributes that most contribute to the likelihood of a customer completeing an offer after viewing it are if the offer was an informational type, if it was communicated via social channels, the offer duration, and the customer's total transactional amount.
+4. The attributes that most contribute to the likelihood of a customer completing an offer after viewing it are if the offer was an informational type, if it was communicated via social channels, the offer duration, and the customer's total transactional amount.
 
-The main findings of the code can be found at the post available [here](https://medium.com/@sarinapatel1213/how-can-we-boost-us-college-completion-rates-6f29efd3dd15). 
+The main findings of the code can be found at the post available [here](https://medium.com/@sarinapatel1213/starbucks-promotional-offers-analysis-project-88e885c6a880). 
 
 ## Acknowledgements
 The dataset used in this project was provided by Starbucks as part of the Udacity Data Science Nanodegree program. Special thanks to Starbucks for making the dataset available for educational purposes.
